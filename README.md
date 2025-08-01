@@ -1,2 +1,3 @@
 # My First Git Repository
-This is my first project using Git version control.
+
+Updated with project info
